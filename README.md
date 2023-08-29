@@ -1,0 +1,2 @@
+# pcconfig
+for system info
